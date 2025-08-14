@@ -1,0 +1,16 @@
+html {
+    background-color: #1B3C53;
+    font-family: Inter;
+    color: #F9F3EF;
+}
+
+.header {
+    background-color: #456882;
+    border: 10px solid #456882;
+    border-top: 600px;
+    margin-top: 0%;
+}
+
+.separator {
+    color: #D2C1B6;
+}
