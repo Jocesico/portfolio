@@ -1,2 +1,2 @@
 # portfolio
-Me portfolio, constatnly adding to it
+Me portfolio, constantly adding to it
